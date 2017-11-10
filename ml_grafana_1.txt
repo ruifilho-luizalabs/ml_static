@@ -1,3 +1,0 @@
-<center>
-<img src="http://luizalabs.com/static/img/luizalabs-logo.png" />
-</center>
