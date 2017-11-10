@@ -1,5 +1,0 @@
-<center>
-<img src="https://cdn.rawgit.com/ruifilho-luizalabs/ml_static/b36eae48/oie_transparent.png" />
-</center>
-
-<h1 style="text-align:center;" style="font-family:courier;"><b><font color="white">API's Squad Compras</font></b></h1>
